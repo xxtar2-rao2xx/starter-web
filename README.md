@@ -8,3 +8,5 @@ Sample website with plenty of files for demos
 
 ##Content
 Different hands on for the demo
+
+##Copyright
